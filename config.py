@@ -19,7 +19,7 @@ YTUB_COOKIES = """
 
 API_ID = os.getenv("API_ID", "23626191")
 API_HASH = os.getenv("API_HASH", "a1416a7b389a7d6d4466ae5e014f7518")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8166451122:AAGsNXECncBD1zW5XqbPa33Rg_EZgR24d2o")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7866164862:AAHjwv-_a98R8S9tMO8onkZWlNXJSOP1tcg")
 MONGO_DB = os.getenv("MONGO_DB", "mongodb+srv://freestudymaterial2024:mc2pGRMs35YVlbLf@cluster0.fdhci3r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 OWNER_ID = list(map(int, os.getenv("OWNER_ID", "7925792971").split())) # list seperated via space
 DB_NAME = os.getenv("DB_NAME", "telegram_downloader")
